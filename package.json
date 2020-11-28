@@ -6,5 +6,8 @@
   "module": "morph-dropdown.js",
   "repository": "https://github.com/poster983/morph-dropdown.git",
   "author": "Joseph Hassell <joseph@hassell.dev>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "lit-element": "^2.3.0"
+  }
 }
