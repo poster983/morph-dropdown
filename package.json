@@ -1,7 +1,19 @@
 {
   "name": "morph-dropdown",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "LitElement container that morphs between different dropdown items",
+  "keywords": [
+    "material design",
+    "web components",
+    "button",
+    "module",
+    "lit-element",
+    "front-end",
+    "lit-html",
+    "dropdown",
+    "morph",
+    "web"
+  ],
   "main": "morph-dropdown.js",
   "module": "morph-dropdown.js",
   "repository": "https://github.com/poster983/morph-dropdown.git",
